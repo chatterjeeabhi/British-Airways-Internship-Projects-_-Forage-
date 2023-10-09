@@ -10,5 +10,8 @@ Neutral     102
 To do so we will use various differnet data processing and cleaning method and at the last we need to make wordcloud of the comments and design a pi charts which tills the 
 percentage of comments and types of comments :
 
-WordCloud ![image](https://github.com/chatterjeeabhi/British-Airways-Internship-Projects/assets/141000190/340ba8f8-1894-4a00-90dc-b9e533f300d6)
-Pie chart  ![image](https://github.com/chatterjeeabhi/British-Airways-Internship-Projects/assets/141000190/df4367b0-9278-466f-a8d6-bfe36bf9a2e0)
+# WordCloud 
+![image](https://github.com/chatterjeeabhi/British-Airways-Internship-Projects/assets/141000190/340ba8f8-1894-4a00-90dc-b9e533f300d6)
+
+# Pie chart
+![image](https://github.com/chatterjeeabhi/British-Airways-Internship-Projects/assets/141000190/df4367b0-9278-466f-a8d6-bfe36bf9a2e0)
